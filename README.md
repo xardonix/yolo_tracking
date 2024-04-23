@@ -20,4 +20,7 @@ python tracking.py --video_path {path to video} --selected_class {class to filte
 
 ## Demo
 
-![](media/output-ezgif.com-video-to-gif-converter.gif)
+![](media/demo1.gif)
+
+![](media/demo2.gif)
+
